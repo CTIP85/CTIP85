@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [On-premises Active Directory Deployed in the Cloud (Azure)]([(https://github.com/CTIP85/Configuring-Active-Directory-within-Azure-VMs))
+  - [On-premises Active Directory Deployed in the Cloud (Azure)](https://github.com/CTIP85/Configuring-Active-Directory-within-Azure-VMs))
   - [File-permission-Azure]([(https://github.com/CTIP85/File-permission-Azure))
 
 <h2>🤳Connect with me:</h2>
